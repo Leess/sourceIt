@@ -1,32 +1,40 @@
-body{
-	margin: 15px;
-	color: #;
-	font: 11px Arial, Helvetica, sans-serif;
-	background: #fff;
+/* colors */
+/* font-size */
+/* backgrounds */
+body {
+  margin: 0;
+  color: #494949;
+  font: 14px/20px Arial, Helvetica, sans-serif;
+  background: #ebebeb;
 }
-img{border-style: none;}
-a{
-	text-decoration: none;
-	color: #000;
+img {
+  border-style: none;
 }
-a:hover{text-decoration: underline;}
+a {
+  text-decoration: none;
+  color: #000;
+}
+a:hover {
+  text-decoration: underline;
+}
 input,
 textarea,
-select{
-	font: 100% arial,sans-serif;
-	vertical-align: middle;
+select {
+  font: 100% arial, sans-serif;
+  vertical-align: middle;
 }
-form,fieldset{
-	margin: 0;
-	padding: 0;
-	border-style: none;
+form,
+fieldset {
+  margin: 0;
+  padding: 0;
+  border-style: none;
 }
-header, footer, article, section, hgroup, nav, figure { display: block; }
-#wrapper{
-	margin: 0 auto;
+header,
+footer,
+article,
+section,
+hgroup,
+nav,
+figure {
+  display: block;
 }
-#header{
-
-}
-
-
